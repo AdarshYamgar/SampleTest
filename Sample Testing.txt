@@ -1,0 +1,1 @@
+This is demo text document file for testing and enhancing git and GitHub related queries and commands and tested some advanced git command for using this file 
